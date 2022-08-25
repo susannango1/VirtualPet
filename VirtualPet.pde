@@ -5,6 +5,9 @@ size(400,400);
 void draw()
 {
 noStroke();
+//body
+fill(255,255,255);
+ellipse(200,275,130,110);
 //ears
 fill(255,255,255);
 ellipse(170,150,30,120);
